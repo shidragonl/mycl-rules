@@ -2,7 +2,7 @@ DOMAIN-SUFFIX,dmmapis.com
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,videomarket.jp
-DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.jp
 DOMAIN-SUFFIX,p-smith.com
 DOMAIN-SUFFIX,vmdash-cenc.akamaized.net
 DOMAIN-SUFFIX,img.vm-movie.jp
