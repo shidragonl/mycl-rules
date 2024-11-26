@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,granbluefantasy.jp
-DOMAIN-SUFFIX,mbga.jp日本网站,
+DOMAIN-SUFFIX,mbga.jp
 DOMAIN-SUFFIX,dmc.nico	
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,socdm.com
