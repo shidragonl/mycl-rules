@@ -1,3 +1,5 @@
+PROCESS-NAME-REGEX,.*DMM.*
+PROCESS-NAME-REGEX,.*マイゲーム.*
 DOMAIN-SUFFIX,dmmapis.com
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm-extension.com
@@ -16,6 +18,8 @@ DOMAIN-SUFFIX,img.vm-movie.jp
 DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
 DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
+DOMAIN-SUFFIX,evo.dmmapis.com
 DOMAIN-SUFFIX,dmc.nico	
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,socdm.com
