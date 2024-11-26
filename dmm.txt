@@ -1,7 +1,10 @@
 DOMAIN-SUFFIX,dmmapis.com
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,videomarket.jp
+DOMAIN-SUFFIX,dmmgames.com 
 DOMAIN-SUFFIX,dmm.jp
 DOMAIN-SUFFIX,p-smith.com
 DOMAIN-SUFFIX,vmdash-cenc.akamaized.net
@@ -18,3 +21,6 @@ DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,niconico.com
 DOMAIN-SUFFIX,nicoseiga.jp
 DOMAIN-SUFFIX,simg.jp
+DOMAIN,apis.game.starlight-stage.jp
+DOMAIN,prd-storage-umamusume.akamaized.net
+DOMAIN-KEYWORD,umamusume
