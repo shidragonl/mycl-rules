@@ -1,1 +1,2 @@
 PROCESS-NAME-REGEX,qBittorrent
+PROCESS-NAME-REGEX,tabby
