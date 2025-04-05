@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
