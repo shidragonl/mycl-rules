@@ -1,5 +1,6 @@
 PROCESS-NAME-REGEX,.*DMM.*
 PROCESS-NAME-REGEX,.*マイゲーム.*
+PROCESS-NAME-REGEX,nikke
 DOMAIN-SUFFIX,dmmapis.com
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm-extension.com
